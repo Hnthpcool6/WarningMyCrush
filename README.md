@@ -1,2 +1,3 @@
 # WarningMyCrush
-# Facebook: https://www.facebook.com/ngoctien.TNT/
+# https://github.com/Hnthpcool6/WarningMyCrush
+# Facebook: https://www.facebook.com/6hnthpcool/
